@@ -29,7 +29,7 @@ Capybara.app = BookmarkManager
 SimpleCov.formatter = SimpleCov::Formatter::MultiFormatter.new([
   SimpleCov::Formatter::Console,
   ])
-  SimpleCov.start
+SimpleCov.start
 
 RSpec.configure do |config|
   # rspec-expectations config goes here. You can use an alternate

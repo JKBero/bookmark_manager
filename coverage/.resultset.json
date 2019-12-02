@@ -1,7 +1,21 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/jbero/Projects/Week4/bookmark_manager/spec/features/homepage_spec.rb": [
+      "/Users/abacon/Projects/makers/week4/pp_day1/bookmark_manager/spec/bookmark_spec.rb": [
+        1,
+        null,
+        1,
+        null,
+        1,
+        1,
+        1,
+        null,
+        null,
+        null
+      ],
+      "/Users/abacon/Projects/makers/week4/pp_day1/bookmark_manager/spec/features/bookmarks_spec.rb": [
+        1,
+        1,
         1,
         1,
         1,
@@ -10,6 +24,6 @@
         null
       ]
     },
-    "timestamp": 1575297971
+    "timestamp": 1575302209
   }
 }
