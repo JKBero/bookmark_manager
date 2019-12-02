@@ -27,6 +27,15 @@ It shall show a list of bookmarks
 
 ## Getting started
 
+To install all necessary gems, run ```bundle``` in the terminal.
+
+## Database setup
+
+- Connect to ```psql```
+- Create the database using the ```psql``` command ```CREATE DATABASE bookmark_manager;```  
+- Connect to the database using the ```pqsl``` command ```\c bookmark_manager;```  
+- Run the query we have saved in the file ```db\migrations\01_create_bookmarks_table.sql```  
+
 ## Running the tests
 
 You can run tests by running "rspec" in the terminal in the bookmark_manager directory.
