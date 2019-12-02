@@ -8,7 +8,7 @@ It shall show a list of bookmarks
 
 ## Domain modelling
 
-!![First user story](https://user-images.githubusercontent.com/49643736/69967451-53559880-1510-11ea-9c20-dcd3d98e78f1.jpg)
+![First user story](https://user-images.githubusercontent.com/49643736/69967451-53559880-1510-11ea-9c20-dcd3d98e78f1.jpg)
 
 ## Features
 
