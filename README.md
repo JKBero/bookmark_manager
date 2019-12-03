@@ -2,8 +2,8 @@
 
 ## User stories
 
-As a user
-So I can quickly access useful webpages
+As a user   
+So I can quickly access useful webpages   
 It shall show a list of bookmarks  
 
 ## Domain modelling
